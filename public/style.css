@@ -1,0 +1,33 @@
+nav{
+    background-color: #563d7c;
+    color: #fff;
+    padding: 10px 40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav li{
+    list-style: none;
+}
+
+nav li a{
+    color: #fff;
+    text-decoration: none;
+    padding: 8px 10px;
+    font-weight: bold;
+}
+
+nav li a:hover{
+    color: bisque;
+    text-decoration: none;
+}
+h1{
+    color: rgb(58, 24, 48);
+    text-shadow: 2px 2px bisque;
+}
